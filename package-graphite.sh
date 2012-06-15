@@ -6,6 +6,9 @@
 #
 # You also need to "yum install python-setuptools" (otherwise fpm fails)
 #
+# There is also the need for epel packages (Django, django-tagging, 
+# python-sqlite2) at install
+#
 # This is heavily inspired from the deb-based script
 # at https://gist.github.com/1715985.  Thanks for that.
 #
